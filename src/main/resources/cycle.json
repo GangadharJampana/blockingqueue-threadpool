@@ -1,0 +1,25 @@
+{
+  "chain": {
+    "type": "default"
+  },
+  "frame": {
+    "style": "default",
+    "bar": "default",
+    "backseat": "no"
+  },
+  "handleBar": {
+    "breaks": "default",
+    "gears": "no",
+    "style": "default"
+  },
+  "seating": {
+    "cushion": "default",
+    "style": "default"
+  },
+  "wheels": {
+    "spokes": "default",
+    "rim": "default",
+    "tube": "default",
+    "tyre": "default"
+  }
+}
